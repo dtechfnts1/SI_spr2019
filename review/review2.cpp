@@ -16,6 +16,9 @@ struct Student {
 // input into the student object passed in as an argument.
 Student* populate_fields(Student* x) {
     // TO BE COMPLETED
+Student*  = new Student;
+
+
     return x;
 }
 
